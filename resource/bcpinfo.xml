@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<parkhaeuser xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <parkhaus>
+    <lfdnr>1</lfdnr>
+    <bezeichnung>bahnhof.txt</bezeichnung>
+    <gesamt>114</gesamt>
+    <frei>105</frei>
+    <status>0</status>
+    <zeitstempel>08.03.2017 23:39</zeitstempel>
+    <tendenz>3</tendenz>
+  </parkhaus>
+  <parkhaus>
+    <lfdnr>2</lfdnr>
+    <bezeichnung>beethoven.txt</bezeichnung>
+    <gesamt>416</gesamt>
+    <frei>335</frei>
+    <status>0</status>
+    <zeitstempel>08.03.2017 23:39</zeitstempel>
+    <tendenz>3</tendenz>
+  </parkhaus>
+  <parkhaus>
+    <lfdnr>3</lfdnr>
+    <bezeichnung>friedensplatz.txt</bezeichnung>
+    <gesamt>810</gesamt>
+    <frei>749</frei>
+    <status>0</status>
+    <zeitstempel>08.03.2017 23:39</zeitstempel>
+    <tendenz>3</tendenz>
+  </parkhaus>
+  <parkhaus>
+    <lfdnr>4</lfdnr>
+    <bezeichnung>markt.txt</bezeichnung>
+    <gesamt>0</gesamt>
+    <frei>000</frei>
+    <status>2</status>
+    <zeitstempel>09.01.2017 00:00</zeitstempel>
+    <tendenz>3</tendenz>
+  </parkhaus>
+  <parkhaus>
+    <lfdnr>5</lfdnr>
+    <bezeichnung>muensterplatz.txt</bezeichnung>
+    <gesamt>312</gesamt>
+    <frei>304</frei>
+    <status>0</status>
+    <zeitstempel>08.03.2017 23:39</zeitstempel>
+    <tendenz>3</tendenz>
+  </parkhaus>
+  <parkhaus>
+    <lfdnr>6</lfdnr>
+    <bezeichnung>stadthaus.txt</bezeichnung>
+    <gesamt>320</gesamt>
+    <frei>236</frei>
+    <status>0</status>
+    <zeitstempel>08.03.2017 23:39</zeitstempel>
+    <tendenz>3</tendenz>
+  </parkhaus>
+</parkhaeuser>
